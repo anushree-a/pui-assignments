@@ -26,4 +26,42 @@
     margin-left: 0px;
 }
 
-.a5-bun-option-card {}
+.a5-bun-option-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.a5-bun-image {
+    width: 100%;
+}
+
+.a5-bun-info,
+.a5-bun-name {
+    margin: 10px 20px
+}
+
+.a5-bun-info {
+    display: flex;
+    align-items: baseline;
+}
+
+.a5-bun-availability,
+.a5-bun-out-of-stock {
+    flex: 1;
+}
+
+.a5-bun-availability {
+    color: #4D843A;
+}
+
+.a5-bun-out-of-stock {
+    color: #FF0303;
+}
+
+.a5-bun-price {
+    font-size: 20px;
+}
+
+.a5-bun-name {
+    font-size: 30px;
+}
