@@ -11,3 +11,19 @@
     margin: 0px;
     padding: 10px 0;
 }
+
+.a5-bun-option-list {
+    display: flex;
+}
+
+.a5-bun-option-row {
+    width: 50%;
+}
+
+.a5-bun-option {
+    border: 1px solid #C4C4C4;
+    margin: 20px;
+    margin-left: 0px;
+}
+
+.a5-bun-option-card {}
