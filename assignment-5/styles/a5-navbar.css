@@ -1,7 +1,8 @@
 .a5-navbar {
     display: flex;
-    padding: 2% 14%;
+    padding: 1% 14%;
     font-size: 18px;
+    align-items: center;
 }
 
 .a5-logo {
