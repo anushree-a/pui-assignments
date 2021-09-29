@@ -3,3 +3,22 @@
     height: 550px;
     width: 100%;
 }
+
+.a5-customer-reviews-title {
+    font-size: 50px;
+    text-align: center;
+}
+
+.a5-customer-reviews {
+    padding: 2% 14%;
+    display: flex;
+}
+
+.a5-review-row {
+    width: 50%;
+}
+
+.a5-review {
+    margin: 20px;
+    margin-left: 0px;
+}
