@@ -11,3 +11,26 @@
     margin: 0px;
     padding: 10px 0;
 }
+
+.a5-details-bun-description {
+    display: flex;
+    margin: 20px 0;
+}
+
+.a5-details-bun-image {
+    width: 500px;
+    margin-right: 60px;
+}
+
+.a5-details-bun-out-of-stock {
+    font-size: 24px;
+    color: #4D843A;
+}
+
+.a5-details-bun-detail {
+    display: flex;
+}
+
+.a5-details-bun-detail-type {
+    padding-right: 20px;
+}
