@@ -34,3 +34,19 @@
 .a5-details-bun-detail-type {
     padding-right: 20px;
 }
+
+.a5-details-bun-extra-info-row {
+    display: flex;
+    align-items: center;
+    margin: 18px 0;
+    border-bottom: 1px solid #C4C4C4;
+}
+
+.a5-details-bun-extra-info-title {
+    flex: 1;
+}
+
+.a5-details-down-arrow {
+    width: 20px;
+    height: 20px;
+}
