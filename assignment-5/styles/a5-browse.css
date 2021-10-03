@@ -26,6 +26,11 @@
     margin-left: 0px;
 }
 
+.a5-bun-option-card-link {
+    text-decoration: none;
+    color: #000;
+}
+
 .a5-bun-option-card {
     display: flex;
     flex-direction: column;
