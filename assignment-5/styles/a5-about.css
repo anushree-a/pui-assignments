@@ -1,0 +1,25 @@
+.a5-about-main {
+    padding: 2% 14%;
+}
+
+.a5-about-title {
+    font-size: 50px;
+    margin: 0px;
+}
+
+.a5-about-founders {
+    display: flex;
+    padding-top: 20px;
+}
+
+.a5-about-founder {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-right: 20px;
+}
+
+.a5-about-founder-img {
+    height: 300px;
+    width: 500px;
+}
