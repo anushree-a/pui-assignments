@@ -50,3 +50,50 @@
     width: 20px;
     height: 20px;
 }
+
+.a5-bun-option-list {
+    display: flex;
+}
+
+.a5-bun-option-row {
+    width: 33%;
+}
+
+.a5-bun-option {
+    border: 1px solid #C4C4C4;
+    margin: 20px;
+    margin-left: 0px;
+}
+
+.a5-bun-option-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.a5-bun-image {
+    width: 100%;
+    height: 240px;
+}
+
+.a5-bun-info,
+.a5-bun-name {
+    margin: 10px 20px
+}
+
+.a5-bun-info {
+    display: flex;
+    align-items: baseline;
+}
+
+.a5-bun-availability,
+.a5-bun-out-of-stock {
+    flex: 1;
+}
+
+.a5-bun-availability {
+    color: #4D843A;
+}
+
+.a5-bun-out-of-stock {
+    color: #FF0303;
+}
