@@ -23,3 +23,22 @@
     height: 300px;
     width: 500px;
 }
+
+.a5-about-story {
+    display: flex;
+}
+
+.a5-about-story-description {
+    flex: 1;
+}
+
+.a5-about-story-images {
+    display: flex;
+    flex-direction: column;
+}
+
+.a5-about-story-image {
+    width: 280px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
