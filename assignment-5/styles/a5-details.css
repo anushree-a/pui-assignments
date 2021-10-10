@@ -58,6 +58,29 @@
     padding-right: 20px;
 }
 
+.a5-details-add-to-bag-out-of-stock,
+.a5-details-add-to-bag-available {
+    border: 1px solid #C4C4C4;
+    text-align: center;
+    padding: 8px;
+    margin-top: 10px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.a5-details-add-to-bag-available {
+    background-color: #E4B267;
+}
+
+.a5-details-add-to-bag-available:hover {
+    background-color: #f0bc6d;
+}
+
+.a5-details-add-to-bag-out-of-stock {
+    background-color: #C4C4C4;
+}
+
+
 .a5-details-bun-extra-info-row {
     display: flex;
     align-items: center;
