@@ -2,6 +2,12 @@
     padding: 2% 14%;
 }
 
+.a5-details-back-link {
+    color: #000;
+    padding: 16px 0;
+    font-size: 14px;
+}
+
 .a5-details-title {
     font-size: 50px;
     margin: 0px;
