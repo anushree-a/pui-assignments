@@ -17,6 +17,10 @@
     margin: 20px 0;
 }
 
+.a5-details-bun-info {
+    flex: 1;
+}
+
 .a5-details-bun-image {
     width: 300px;
     margin-right: 60px;
@@ -25,15 +29,29 @@
 .a5-details-bun-available {
     font-size: 24px;
     color: #4D843A;
+    margin: 0px;
 }
 
 .a5-details-bun-out-of-stock {
     font-size: 24px;
     color: #FF0303;
+    margin-top: 0px;
 }
 
 .a5-details-bun-detail {
     display: flex;
+}
+
+.a5-details-bun-detail-dd {
+    height: 40px;
+}
+
+.a5-details-bun-detail-title {
+    flex: 1;
+}
+
+.a5-details-bun-detail-value {
+    width: 400px;
 }
 
 .a5-details-bun-detail-type {
