@@ -1,4 +1,4 @@
-Extra work done in this assignment:
+Extra work done in this assignment for bonus credit:
 
 1. Created an About Us page that is accessible via the link in the navbar
 2. Created a Contact Us page that is accessible via the link in the footer
