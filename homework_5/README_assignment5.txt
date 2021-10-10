@@ -1,6 +1,6 @@
 Extra work done in this assignment for bonus credit:
 
-1. Created an About Us page that is accessible via the link in the navbar
+1. Created an About page that is accessible via the link in the navbar
 2. Created a Contact Us page that is accessible via the link in the footer
 3. Created 2 separate product detail pages: 
    One for available item and one for an item that is out of stock. 
