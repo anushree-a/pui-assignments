@@ -16,12 +16,18 @@
     display: flex;
     flex-direction: column;
     width: 50%;
-    margin-right: 20px;
+}
+
+.a5-about-rita {
+    margin-right: 10px;
+}
+
+.a5-about-sujay {
+    margin-left: 10px;
 }
 
 .a5-about-founder-img {
     height: 300px;
-    width: 500px;
 }
 
 .a5-about-story {
