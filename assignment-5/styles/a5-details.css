@@ -35,7 +35,7 @@
 .a5-details-bun-out-of-stock {
     font-size: 24px;
     color: #FF0303;
-    margin-top: 0px;
+    margin: 0px;
 }
 
 .a5-details-bun-detail {
@@ -78,6 +78,10 @@
 
 .a5-details-add-to-bag-out-of-stock {
     background-color: #C4C4C4;
+}
+
+.a5-details-schedule-order {
+    margin: 20px 0;
 }
 
 
