@@ -73,11 +73,11 @@
     padding: 8px;
     margin-top: 10px;
     height: 40px;
-    cursor: pointer;
 }
 
 .a5-details-add-to-bag-available {
     background-color: #E4B267;
+    cursor: pointer;
 }
 
 .a5-details-add-to-bag-available:hover {
@@ -86,6 +86,7 @@
 
 .a5-details-add-to-bag-out-of-stock {
     background-color: #C4C4C4;
+    cursor: not-allowed;
 }
 
 .a5-details-schedule-order {
