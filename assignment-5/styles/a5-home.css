@@ -11,6 +11,13 @@
 
 .a5-customer-reviews {
     padding: 2% 14%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.a5-customer-reviews-header {
+    font-size: 40px;
+    margin: 0px;
 }
 
 .a5-review-row {
